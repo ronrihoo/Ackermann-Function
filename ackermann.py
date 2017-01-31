@@ -7,7 +7,7 @@ PARAM_2 = 1  			# ...
 
 PRINT_STEPS = True		# print mathematical form of each step
 PRINT_VARS = False		# print x, y, and x_list values for each step
-PRINT_X_LIST = False 	# print all recorded x-values for each step
+PRINT_X_LIST = False  	# print all recorded x-values for each step
 
 
 def A(x, y, x_list=[]):
